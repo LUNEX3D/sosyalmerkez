@@ -30,18 +30,13 @@ Sahibi: Emrullah (Dashtock, dashtock.com — okunuşu "Deştok", ekranda hep "Da
    - Kapak karesi: kancanın en net okunduğu an (ms cinsinden not al).
 5. **Yükle**: `videolar/YYYY-MM-DD.mp4` olarak `medya` dalına commit + push.
    URL: `https://raw.githubusercontent.com/LUNEX3D/sosyalmerkez/medya/videolar/YYYY-MM-DD.mp4`
-6. **Planla (Metricool, blogId 7506325, saat dilimi Europe/Istanbul)**: aynı gün 21:00'a AYRI AYRI gönderiler:
-   - Instagram REEL (isAiGenerated true), Facebook REEL, TikTok (title dolu, commercialContentOwnBrand true, isAigc true,
-     PUBLIC_TO_EVERYONE), YouTube short (title, madeForKids false, isAiGeneratedContent true, public).
-   - 21:01 Instagram STORY ve Facebook STORY (metinsiz, aynı video).
-   - Her platforma ayrı açıklama: IG/FB kısa merak uyandıran metin + soru + 5-8 hashtag; TikTok kısa; YouTube başlık < 70
-     karakter + kısa açıklama. Hitap "sen". Hashtag'lerde Türkçe karakter kullanma (#karzarar, #eticaret, #dashtock,
-     #trendyol, #hepsiburada, #pazaryeri, #eticaretsitesi ...). videoCoverMilliseconds = kapak karesi.
-   - Hata dönerse (ör. "account limit") tekrar deneme; durumu kayda ve bildirime yaz.
+6. **PAYLAŞIM: METRICOOL KULLANMA.** Emrullah paylaşımın kendi programı Sosyal Merkez üzerinden yapılmasını istedi.
+   Metricool'a hiçbir gönderi oluşturma. Videoyu depoya koy, her platform için açıklama/başlık/hashtag'leri
+   `videolar/YYYY-MM-DD.md` dosyasına yaz (IG/FB, TikTok, YouTube başlık + açıklama, Story notu, kapak ms).
+   Sosyal Merkez bağlantısı kurulunca bu adım güncellenecek.
 7. **Kaydet**: `rutin/KONU_GECMISI.md` dosyasına satır ekle (tarih | konu | kanca cümlesi | sesli/sessiz | Metricool id'leri | durum),
    commit + push. Varsa `/mnt/project-files/dashtock-otomatik/` klasörüne de video + notu kopyala.
-8. **Bildir**: Son mesajında Türkçe, kısa: bugünkü konu, kanca, 21:00'da çıkacağı, beğenmezse Metricool uygulamasından
-   silebileceği. Hata varsa açıkça yaz.
+8. **Bildir**: Son mesajında Türkçe, kısa: bugünkü konu, kanca, videonun hazır olduğu ve Sosyal Merkez'e aktarılacağı. Hata varsa açıkça yaz.
 
 ## Asla
 - Giriş bilgisi/şifre yazma. Gerçek müşteri verisi gösterme. Rakip markaları kötüleme.
