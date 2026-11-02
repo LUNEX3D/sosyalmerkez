@@ -4,7 +4,7 @@ Her gün bulutta çalışan görevin talimatı. Bilgisayar açık olmak zorunda 
 Sahibi: Emrullah (Dashtock, dashtock.com — okunuşu "Deştok", ekranda hep "Dashtock").
 
 ## Akış (İstanbul saati)
-(Not: 3-9 Kasım arası Sosyal Merkez 19:00 dizisiyle çakışmasın diye günlük paylaşım 21:00.)
+(Not: 3-9 Kasım arası Sosyal Merkez'deki 19:00 site/kargo dizisiyle çakışmasın diye günlük paylaşım 21:00.)
 1. **Depo**: `LUNEX3D/sosyalmerkez` deposunu `medya` dalıyla klonla. Bu klasördeki dosyalar burada.
 2. **Konu seç**: `rutin/KONU_GECMISI.md` dosyasına bak, son 10 günde kullanılmamış bir konu seç.
    Kaynak: `rutin/DASHTOCK_OZELLIKLER.md`. Varsa `/mnt/project-files/dashtock-bilgi/` (ayrıntılı program dokümanı) da oku.
@@ -30,13 +30,28 @@ Sahibi: Emrullah (Dashtock, dashtock.com — okunuşu "Deştok", ekranda hep "Da
    - Kapak karesi: kancanın en net okunduğu an (ms cinsinden not al).
 5. **Yükle**: `videolar/YYYY-MM-DD.mp4` olarak `medya` dalına commit + push.
    URL: `https://raw.githubusercontent.com/LUNEX3D/sosyalmerkez/medya/videolar/YYYY-MM-DD.mp4`
-6. **PAYLAŞIM: METRICOOL KULLANMA.** Emrullah paylaşımın kendi programı Sosyal Merkez üzerinden yapılmasını istedi.
-   Metricool'a hiçbir gönderi oluşturma. Videoyu depoya koy, her platform için açıklama/başlık/hashtag'leri
-   `videolar/YYYY-MM-DD.md` dosyasına yaz (IG/FB, TikTok, YouTube başlık + açıklama, Story notu, kapak ms).
-   Sosyal Merkez bağlantısı kurulunca bu adım güncellenecek.
-7. **Kaydet**: `rutin/KONU_GECMISI.md` dosyasına satır ekle (tarih | konu | kanca cümlesi | sesli/sessiz | Metricool id'leri | durum),
+6. **Paylaşım: Sosyal Merkez (Emrullah'ın kendi programı). METRICOOL KULLANMA.**
+   Sosyal Merkez her 10 dakikada bir bu depodaki `gonderiler/liste.json` dosyasını okur, yeni dosyaları alır,
+   videoyu indirir ve gönderiyi zamanlar. Senin işin yalnızca şu iki dosyayı yazıp push etmek:
+   - `gonderiler/YYYY-MM-DD.json`:
+     ```json
+     { "scheduled_at": "YYYY-MM-DDT21:00:00+03:00",
+       "posts": [ { "networks": ["instagram","facebook","tiktok","youtube","threads"],
+                    "media": ["videolar/YYYY-MM-DD.mp4"],
+                    "content": "IG/FB metni: kanca + kısa açıklama + soru + dashtock.com + 5-8 hashtag",
+                    "texts": { "youtube": "Başlık (<70 karakter) #shorts\n\nAçıklama + https://dashtock.com + hashtag",
+                               "tiktok": "kısa metin + hashtag",
+                               "threads": "500 karakteri geçmeyen, hashtag'siz kısa metin + dashtock.com" },
+                    "notes": "Konu ve kanca; seslendirme yapay zekâ ise belirt" } ] }
+     ```
+   - `gonderiler/liste.json`: dosya adlarının dizisi; yeni dosyanın adını SONA ekle (ör. `["2026-11-02.json"]`).
+     Eski adları silme (silinirse sorun olmaz ama tekrar alınmaz).
+   - Instagram 2.200, TikTok 2.200, Threads 500, YouTube başlığı 100 karakter sınırı. Hitap "sen".
+     Hashtag'lerde Türkçe karakter kullanma (#karzarar, #eticaret, #dashtock, #pazaryeri, #eticaretsitesi ...).
+   - Story, kapak karesi, AI etiketi programda yok; bunları gönderme.
+7. **Kaydet**: `rutin/KONU_GECMISI.md` dosyasına satır ekle (tarih | konu | kanca cümlesi | sesli/sessiz | gonderiler dosyası | durum),
    commit + push. Varsa `/mnt/project-files/dashtock-otomatik/` klasörüne de video + notu kopyala.
-8. **Bildir**: Son mesajında Türkçe, kısa: bugünkü konu, kanca, videonun hazır olduğu ve Sosyal Merkez'e aktarılacağı. Hata varsa açıkça yaz.
+8. **Bildir**: Son mesajında Türkçe, kısa: bugünkü konu, kanca, videonun hazır olduğu, Sosyal Merkez'in 21:00'de paylaşacağı (onay modu açıksa \"Onay bekleyenler\"de bekler). Hata varsa açıkça yaz.
 
 ## Asla
 - Giriş bilgisi/şifre yazma. Gerçek müşteri verisi gösterme. Rakip markaları kötüleme.

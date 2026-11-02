@@ -1,6 +1,6 @@
 # Konu geçmişi
 
-tarih | konu | kanca | ses | metricool | durum
+tarih | konu | kanca | ses | gonderi dosyasi | durum
 ---|---|---|---|---|---
 2026-10-27 | merkezi stok (Stokta 1 tane vardı) | 2 kişi aldı | sesli | - | yayında
 2026-10-30 | Esnaf3D / web sitesi | Bu site kaç satır kodla yapıldı? | sesli | - | limit hatası
