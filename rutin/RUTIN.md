@@ -51,7 +51,7 @@ Sahibi: Emrullah (Dashtock, dashtock.com — okunuşu "Deştok", ekranda hep "Da
    - Story, kapak karesi, AI etiketi programda yok; bunları gönderme.
 7. **Kaydet**: `rutin/KONU_GECMISI.md` dosyasına satır ekle (tarih | konu | kanca cümlesi | sesli/sessiz | gonderiler dosyası | durum),
    commit + push. Varsa `/mnt/project-files/dashtock-otomatik/` klasörüne de video + notu kopyala.
-8. **Bildir**: Son mesajında Türkçe, kısa: bugünkü konu, kanca, videonun hazır olduğu, Sosyal Merkez'in 21:00'de paylaşacağı (onay modu açıksa \"Onay bekleyenler\"de bekler). Hata varsa açıkça yaz.
+8. **Bildir**: Son mesajında Türkçe, kısa: bugünkü konu, kanca, videonun hazır olduğu, Sosyal Merkez'in 21:00'de paylaşacağı (onay modu açıksa "Onay bekleyenler"de bekler). Hata varsa açıkça yaz.
 
 ## Asla
 - Giriş bilgisi/şifre yazma. Gerçek müşteri verisi gösterme. Rakip markaları kötüleme.
