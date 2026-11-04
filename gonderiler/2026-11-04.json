@@ -1,0 +1,50 @@
+{
+  "scheduled_at": "2026-11-04T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-04.mp4"
+      ],
+      "content": "Pazaryeri sana eksik ödedi. Bulabilir misin? 👀\n\nSolda beklediğin tutar, sağda hesabına yatan. Beş siparişin birinde fark var: −38,20 TL, desi farkı diye kesilmiş.\n\nBeş satırda bulmak kolay. Yüzlerce siparişte gözle bulamazsın. Dashtock her siparişin getirmesi gereken tutarı hesaplar, pazaryerinin ödediğiyle karşılaştırır ve farkı önüne koyar; itiraz takibi de aynı panelde.\n\nSatış, para yatınca biter.\n\nSon hakedişini kontrol ettin mi? Yoruma yaz 👇\ndashtock.com\n\n(Tablodaki tutarlar örnektir.)\n\n#dashtock #eticaret #pazaryeri #hakedis #trendyol #hepsiburada #eticaretsitesi #satici",
+      "texts": {
+        "youtube": "Pazaryeri sana eksik ödedi. Bulabilir misin? #shorts\n\nBeklenen tutar ile hesabına yatan tutarı karşılaştır: beş siparişin birinde desi farkı kesintisi var (örnek tutarlar).\nDashtock hakediş mutabakatı her siparişte beklenen / ödenen / fark gösterir, farklı ödemeleri işaretler ve itiraz takibine alır. Web siten + 8 pazaryeri, tek panel.\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n#dashtock #eticaret #pazaryeri #hakedis #trendyol",
+        "tiktok": "Pazaryeri sana eksik ödedi. Bulabilir misin? 👀 3 saniyen var. Son hakedişini kontrol ettin mi? #dashtock #eticaret #pazaryeri #hakedis #trendyol #satici",
+        "threads": "Pazaryeri sana eksik ödedi, bulabilir misin? Beş siparişte bulmak kolay: biri desi farkı diye 38,20 TL eksik yatmış (örnek). Yüzlerce siparişte gözle bulamazsın. Dashtock her siparişte beklenenle yatanı karşılaştırır, farkı önüne koyar. Satış, para yatınca biter. Son hakedişini kontrol ettin mi? dashtock.com"
+      },
+      "notes": "Konu: hakediş mutabakatı (beklenen / ödenen / fark, desi farkı itirazı). Kanca: 'Pazaryeri sana eksik ödedi. Bulabilir misin?' Arayüz çizim, tutarlar ÖRNEK. Kapak 1600 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "Pazaryeri sana bu hafta eksik ödedi. Nerede olduğunu bulabilir misin?"
+        },
+        {
+          "at": 4.8,
+          "text": "Solda beklediğin tutar, sağda hesabına yatan. Üç saniyen var."
+        },
+        {
+          "at": 8.9,
+          "text": "Üçüncü satır. Otuz sekiz lira yirmi kuruş eksik, desi farkı diye kesilmiş."
+        },
+        {
+          "at": 14.4,
+          "text": "Yüzlerce siparişte bunu gözle bulamazsın. Deştok her siparişte beklenenle yatanı karşılaştırır, farkı önüne koyar."
+        },
+        {
+          "at": 21.3,
+          "text": "Çünkü satış, para hesabına yatınca biter."
+        },
+        {
+          "at": 23.9,
+          "text": "Web siten ve pazaryerlerin tek panelde. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}
