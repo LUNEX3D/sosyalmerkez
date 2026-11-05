@@ -1,0 +1,50 @@
+{
+  "scheduled_at": "2026-11-05T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-05.mp4"
+      ],
+      "content": "11.11'e 6 gün. Fiyat savaşı başladı. 🔻\n\nRakip kırdı, sen kırdın. O yine, sen yine. Peki nerede durmalıydın: A ₺469, B ₺449, C ₺429?\n\nDoğru cevap: kâr tabanını bilmiyorsan, bilemezsin.\n\nDashtock her ürünün kâr tabanını (maliyet + komisyon + kargo) bilir. Rakip tabanın altına inerse peşinden koşmaz, \"tuzak fiyat\" diye uyarır. Senin onayın olmadan hiçbir fiyat değişmez. Web siten ve pazaryerlerin tek panelde.\n\nFiyat savaşında dibe inen kazanmaz.\n\nSen hangisini seçtin? Yoruma yaz 👇\ndashtock.com\n\n(Videodaki tutarlar örnektir.)\n\n#dashtock #eticaret #pazaryeri #1111 #buybox #trendyol #fiyatsavasi #satici",
+      "texts": {
+        "youtube": "11.11'e 6 gün: fiyat savaşında nerede durmalıydın? #shorts\n\nRakip fiyat kırdı, sen de kırdın... A ₺469, B ₺449, C ₺429? Kâr tabanını bilmeden doğru cevabı veremezsin (örnek tutarlar).\nDashtock Fiyat Otopilotu her ürünün kâr tabanını hesaplar, tabanın altındaki tuzak fiyatları uyarır, onayın olmadan fiyat değiştirmez. Web siten + 8 pazaryeri, tek panel.\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n#dashtock #eticaret #pazaryeri #1111 #buybox",
+        "tiktok": "11.11'e 6 gün. Rakip kırdı, sen kırdın... Nerede durmalıydın? A, B, C? 3 saniyen var 👀 #dashtock #eticaret #pazaryeri #1111 #buybox #trendyol #satici",
+        "threads": "11.11'e 6 gün. Rakip fiyat kırdı, sen kırdın, o yine, sen yine. Nerede durmalıydın? Kâr tabanını bilmiyorsan doğru cevap: bilemezsin. Dashtock her ürünün tabanını bilir, tabanın altındaki tuzak fiyatı uyarır, onayın olmadan fiyat değiştirmez. Fiyat savaşında dibe inen kazanmaz. dashtock.com"
+      },
+      "notes": "Konu: Fiyat Otopilotu / Buybox Guard (kâr tabanı, tuzak fiyat uyarısı, onaysız fiyat değişmez), 11.11 kancası. Kanca: '11.11'e 6 gün. Nerede durmalıydın?' Arayüz çizim, tutarlar ÖRNEK. Kapak 2500 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "On bir on bire altı gün. Rakip fiyat kırdı, sen de kırdın. O yine, sen yine."
+        },
+        {
+          "at": 6.7,
+          "text": "Nerede durmalıydın? A, B, yoksa C?"
+        },
+        {
+          "at": 10.9,
+          "text": "Doğru cevap: bilemezsin. Çünkü kâr tabanını hiç hesaplamadın."
+        },
+        {
+          "at": 15.0,
+          "text": "Deştok her ürünün kâr tabanını bilir. Rakip tabanın altına inerse peşinden koşmaz, seni uyarır. Onayın olmadan fiyat değişmez."
+        },
+        {
+          "at": 23.0,
+          "text": "Fiyat savaşında dibe inen kazanmaz."
+        },
+        {
+          "at": 25.8,
+          "text": "Web siten ve pazaryerlerin tek panelde. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}
