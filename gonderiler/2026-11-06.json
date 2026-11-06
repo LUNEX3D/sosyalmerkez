@@ -1,0 +1,58 @@
+{
+  "scheduled_at": "2026-11-06T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-06.mp4"
+      ],
+      "content": "11.11'e 5 gün. Gece 300 sipariş geldi. Hepsine fatura lazım. 🧾\n\nFatura başına 1 dakika desek ne zaman biter? A) 2 saat B) 5 saat C) Hiç kesmem\n\nElle yaparsan 5 saat. Ama doğru cevap C.\n\nDashtock'ta sipariş gelince fatura kendiliğinden kesilir: alıcı e-Fatura mükellefiyse e-Fatura, değilse e-Arşiv. Pazaryerine otomatik yüklenir, iade onaylanınca e-Arşiv iptali de otomatik. Web siten ve pazaryerlerin tek panelde.\n\nSen sat. Faturayı Dashtock kessin.\n\n11.11'de faturaları kim kesecek? Yoruma yaz 👇\ndashtock.com\n\n(Videodaki sayılar örnektir.)\n\n#dashtock #eticaret #efatura #earsiv #pazaryeri #1111 #trendyol #eticaretsitesi",
+      "texts": {
+        "youtube": "11.11 gecesi 300 sipariş: faturaları kim kesecek? #shorts\n\nFatura başına 1 dakika = 5 saat elle fatura (örnek sayılar). Dashtock'ta sipariş gelince e-Fatura / e-Arşiv kendiliğinden kesilir, pazaryerine yüklenir, iadede iptal de otomatik. Web siten + 8 pazaryeri tek panelde.\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n#dashtock #eticaret #efatura #earsiv #1111",
+        "tiktok": "11.11 gecesi 300 sipariş. Fatura başına 1 dakika. Ne zaman biter? A, B, C? 🧾 #dashtock #eticaret #efatura #pazaryeri #1111 #trendyol #satici",
+        "threads": "11.11'e 5 gün. Gece 300 sipariş gelse, fatura başına 1 dakikadan 5 saat elle fatura keserdin. Dashtock'ta sipariş gelince e-Fatura ya da e-Arşiv kendiliğinden kesilir, pazaryerine yüklenir, iade olursa iptali de otomatik. Sen sat, faturayı Dashtock kessin. dashtock.com"
+      },
+      "notes": "Konu: otomatik e-Fatura / e-Arşiv (alıcıya göre tür, pazaryerine yükleme, iadede otomatik iptal), 11.11 kancası. Kanca: '11.11'e 5 gün. 300 sipariş. Fatura başına 1 dk. Ne zaman biter?' Arayüz çizim, sayılar ÖRNEK. Kapak 3600 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "On bir on bire beş gün. Gece üç yüz sipariş geldi."
+        },
+        {
+          "at": 2.9,
+          "text": "Hepsine fatura lazım."
+        },
+        {
+          "at": 4.7,
+          "text": "Fatura başına bir dakika. Ne zaman biter?"
+        },
+        {
+          "at": 9.4,
+          "text": "Elle yaparsan beş saat."
+        },
+        {
+          "at": 11.0,
+          "text": "Ama doğru cevap C. Faturayı sen kesmezsin."
+        },
+        {
+          "at": 13.5,
+          "text": "Deştok'ta sipariş gelince fatura kendiliğinden kesilir, pazaryerine yüklenir. İade olursa iptali de otomatik."
+        },
+        {
+          "at": 19.9,
+          "text": "Sen sat. Faturayı Deştok kessin."
+        },
+        {
+          "at": 22.5,
+          "text": "Web siten ve pazaryerlerin tek panelde. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}

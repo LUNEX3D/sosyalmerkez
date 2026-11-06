@@ -10,3 +10,4 @@ tarih | konu | kanca | ses | gonderi dosyasi | durum
 2026-11-03 | yurt dışı pazaryeri (Ozon) + merkezi stok + paket etiketi | Bu etiketi okuyabilir misin? | sessiz | gonderiler/2026-11-03.json | Sosyal Merkez kuyruğunda (21:00)
 2026-11-04 | hakediş mutabakatı (beklenen/ödenen/fark, desi itirazı) | Pazaryeri sana eksik ödedi. Bulabilir misin? | sesli (Sosyal Merkez ekler) | gonderiler/2026-11-04.json | Sosyal Merkez kuyruğunda (21:00)
 2026-11-05 | Fiyat Otopilotu / Buybox Guard (kâr tabanı, tuzak fiyat, onaysız fiyat değişmez) + 11.11 | 11.11'e 6 gün. Rakip kırdı, sen kırdın. Nerede durmalıydın? | sesli (Sosyal Merkez ekler) | gonderiler/2026-11-05.json | Sosyal Merkez kuyruğunda (21:00)
+2026-11-06 | otomatik e-Fatura / e-Arşiv (alıcıya göre tür, pazaryerine yükleme, iadede otomatik iptal) + 11.11 | 11.11'e 5 gün. 300 sipariş. Fatura başına 1 dk. Ne zaman biter? | sesli (Sosyal Merkez ekler) | gonderiler/2026-11-06.json | Sosyal Merkez kuyruğunda (21:00)
