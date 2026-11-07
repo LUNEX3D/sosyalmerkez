@@ -1,0 +1,58 @@
+{
+  "scheduled_at": "2026-11-07T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-07.mp4"
+      ],
+      "content": "11.11'e 4 gün. Bu ürün kaç vitrinde satışta? Hızlı say 👀\n\nWeb siten + 7 pazaryeri = 8 vitrin. Cevap: 5. Yani 3 vitrin bomboş.\n\n11.11'de o pazaryerinde ürünü arayan müşteri seni bulamaz. Ürün çoğu zaman şu yüzden eksik kalır: her pazaryerinin kategorisi, özelliği farklı.\n\nDashtock'ta hangi ürünün hangi kanalda eksik olduğunu görürsün; kategori her pazaryerine göre eşleşir, \"Eksikleri Dağıt\" ile tek tuşta hepsine gider. Web siten ve pazaryerlerin tek panelde.\n\nOlmadığın vitrinde satamazsın.\n\nSenin en çok satan ürünün kaç vitrinde? Yoruma yaz 👇\ndashtock.com\n\n(Videodaki ürün ve veriler örnektir.)\n\n#dashtock #eticaret #pazaryeri #1111 #eticaretsitesi #trendyol #hepsiburada #urunyukleme",
+      "texts": {
+        "youtube": "Bu ürün kaç vitrinde satışta? 11.11'e 4 gün #shorts\n\nWeb siten + 7 pazaryeri = 8 vitrin, ürün sadece 5'inde. 11.11'de boş vitrine gelen müşteri seni bulamaz. Dashtock eksik kanalları bulur, kategoriyi her pazaryerine göre eşler, Eksikleri Dağıt ile tek tuşta gönderir (örnek veriler).\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n#dashtock #eticaret #pazaryeri #1111 #eticaretsitesi",
+        "tiktok": "11.11'e 4 gün. Bu ürün kaç vitrinde satışta? Hızlı say 👀 Seninki kaç vitrinde? #dashtock #eticaret #pazaryeri #1111 #trendyol #satici #eticaretsitesi",
+        "threads": "11.11'e 4 gün. Ürünün web sitende ve 7 pazaryerinden sadece 4'ünde satışta olsa, kalan 3 pazaryerinde seni arayan müşteri bulamaz. Dashtock hangi ürünün nerede eksik olduğunu gösterir, kategoriyi her pazaryerine göre eşler, tek tuşla hepsine gönderir. Olmadığın vitrinde satamazsın. dashtock.com"
+      },
+      "notes": "Konu: Ürün Yükle / Eksikleri Dağıt + Kategori Merkezi (akıllı kategori eşleştirme), 11.11 kancası. Kanca: '11.11'e 4 gün. Bu ürün kaç vitrinde satışta? Say.' Arayüz çizim, veriler ÖRNEK. Kapak 3600 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "On bir on bire dört gün. Bu ürün kaç vitrinde satışta? Hızlı say."
+        },
+        {
+          "at": 5.7,
+          "text": "Üç, iki, bir."
+        },
+        {
+          "at": 8.5,
+          "text": "Beş. Yani üç vitrin bomboş."
+        },
+        {
+          "at": 11.1,
+          "text": "On bir on birde o vitrinlere gelen müşteri seni bulamaz."
+        },
+        {
+          "at": 15.8,
+          "text": "Deştok hangi ürünün nerede eksik olduğunu bulur, kategorisini her pazaryerine göre eşler."
+        },
+        {
+          "at": 21.3,
+          "text": "Tek tuşla hepsine gönderir."
+        },
+        {
+          "at": 23.5,
+          "text": "Olmadığın vitrinde satamazsın."
+        },
+        {
+          "at": 25.8,
+          "text": "Web siten ve pazaryerlerin tek panelde. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}
