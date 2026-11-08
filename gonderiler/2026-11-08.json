@@ -1,0 +1,54 @@
+{
+  "scheduled_at": "2026-11-08T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-08.mp4"
+      ],
+      "content": "11.11'e 3 gün. Sitende 10 kişi sepete ürün attı. Kaçı ödedi? Tahmin et 👀\n\nCevap: 3. Kalan 7 sepet ödemeden terk edildi. Ama o sepetler hâlâ dolu.\n\nDashtock'ta terk edilmiş sepet otomasyonu açıksa, ödemeden çıkan müşteriye hatırlatma e-postası kendiliğinden gider. Müşteri geri döner, sipariş web siten ve pazaryeri siparişlerinle aynı listeye düşer. Sen bir şey yapmazsın.\n\nSepet bırakıldı. Satış bitmedi.\n\nSenin sitende şu an kaç sepet bekliyor? Yoruma yaz 👇\ndashtock.com\n\n(Videodaki sayılar ve ekranlar örnektir.)\n\n#dashtock #eticaret #eticaretsitesi #1111 #terkedilmissepet #emailmarketing #kendimarkan #pazaryeri",
+      "texts": {
+        "youtube": "10 kişi sepete attı. Kaçı ödedi? 11.11'e 3 gün #shorts\n\nSitende 10 sepetten 3'ü ödendi, 7'si terk edildi (örnek). Dashtock'ta terk edilmiş sepet otomasyonu, ödemeden çıkan müşteriye hatırlatma e-postasını kendiliğinden gönderir; geri dönen sipariş web siten ve pazaryerlerinle aynı panele düşer.\nSepet bırakıldı. Satış bitmedi.\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n#dashtock #eticaret #eticaretsitesi #1111 #terkedilmissepet",
+        "tiktok": "11.11'e 3 gün. 10 kişi sepete attı, kaçı ödedi? Tahmin et 👀 Senin sitende kaç sepet bekliyor? #dashtock #eticaret #eticaretsitesi #1111 #terkedilmissepet #satici #kendimarkan",
+        "threads": "11.11'e 3 gün. Sitende 10 kişi sepete ürün atsa, kaçı öder? Örnekte 3. Kalan 7 sepet ödemeden terk edilir ama hâlâ doludur. Dashtock'ta terk edilmiş sepet otomasyonu müşteriye hatırlatma e-postasını kendiliğinden gönderir, geri dönen sipariş web siten ve pazaryerlerinle aynı panele düşer. Sepet bırakıldı, satış bitmedi. dashtock.com"
+      },
+      "notes": "Konu: kendi web sitesi + terk edilmiş sepet e-posta otomasyonu (Pazarlama > Otomasyon), 11.11 kancası. Kanca: '11.11'e 3 gün. Sitende 10 kişi sepete ürün attı. Kaçı ödedi?' (A 9 / B 6 / C 3 -> 3). Arayüz çizim, veriler ÖRNEK. Kapak 2500 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "On bir on bire üç gün. Sitende on kişi sepete ürün attı. Kaçı ödedi?"
+        },
+        {
+          "at": 6.3,
+          "text": "Tahmin et. Üç, iki, bir."
+        },
+        {
+          "at": 8.9,
+          "text": "Üç. Yedisi sepeti doldurdu, ödemeden gitti."
+        },
+        {
+          "at": 13.0,
+          "text": "Ama sepet hâlâ dolu. Deştok o müşteriye kendiliğinden hatırlatma e-postası gönderir."
+        },
+        {
+          "at": 17.9,
+          "text": "Sen bir şey yapmazsın. Müşteri geri döner, sipariş paneline düşer."
+        },
+        {
+          "at": 22.4,
+          "text": "Sepet bırakıldı. Satış bitmedi."
+        },
+        {
+          "at": 24.9,
+          "text": "Kendi web siten ve pazaryerlerin tek panelde. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}
