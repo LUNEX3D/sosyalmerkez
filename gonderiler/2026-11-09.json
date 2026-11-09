@@ -1,0 +1,54 @@
+{
+  "scheduled_at": "2026-11-09T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-09.mp4"
+      ],
+      "content": "Muhasebecin arıyor. Açar mısın, meşgule mi atarsın? Dürüst ol 😅\n\nÇünkü soracağı belli: 11.11 faturaları, gider faturaları, pazaryeri dökümleri. Sonra her panelden ayrı Excel indirir, WhatsApp'tan fotoğraf atarsın.\n\nDashtock'ta muhasebecini Mali Müşavir Merkezi'ne bir kez davet edersin. Kendi portalından satış belgelerini (e-Fatura, e-Arşiv), bekleyen satışları, alış ve gider faturalarını, dönem hazırlığını görür; muhasebe programına Excel olarak aktarır. Web siten ve pazaryerlerin tek yerde.\n\nMuhasebecin aramıyorsa, işler yolunda.\n\nSen açar mıydın? Yoruma A ya da B yaz 👇\ndashtock.com\n\n(Videodaki ekranlar ve sayılar örnektir.)\n\n#dashtock #eticaret #muhasebe #malimusavir #efatura #pazaryeri #eticaretsitesi #1111",
+      "texts": {
+        "youtube": "Muhasebecin arıyor. Açar mısın? #shorts\n\nAy sonu hep aynı sorular: faturalar, gider belgeleri, pazaryeri dökümleri. Dashtock'ta muhasebecini Mali Müşavir Merkezi'ne bir kez davet edersin; satış belgelerini, bekleyen satışları, alış ve gider faturalarını, dönem hazırlığını kendi portalından görür, Excel olarak aktarır. Web siten ve pazaryerlerin tek panelde.\nMuhasebecin aramıyorsa, işler yolunda.\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n#dashtock #eticaret #muhasebe #malimusavir #efatura",
+        "tiktok": "Muhasebecin arıyor. Açar mısın, meşgule mi atarsın? 😅 Yoruma A ya da B yaz 👇 #dashtock #eticaret #muhasebe #malimusavir #efatura #satici #pazaryeri",
+        "threads": "Muhasebecin arıyor. Açar mısın, meşgule mi atarsın? Ay sonu soracağı belli: faturalar, gider belgeleri, pazaryeri dökümleri. Dashtock'ta muhasebecini bir kez davet edersin; satış belgelerini, gider faturalarını ve dönem hazırlığını kendi portalından görür, Excel'e aktarır. Web siten ve pazaryerlerin tek yerde. Muhasebecin aramıyorsa, işler yolunda. dashtock.com"
+      },
+      "notes": "Konu: Mali Müşavir Merkezi (müşavir daveti, ayrı portal: satış belgeleri, bekleyen satışlar, alış/gider faturaları, dönem hazırlığı, Excel aktarımı). Kanca: 'Muhasebecin arıyor. Açar mısın?' (A Meşgule at / B Aç). Arayüz çizim, veriler ÖRNEK. Kapak 2000 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "Muhasebecin arıyor. Açar mısın, meşgule mi atarsın? Üç, iki, bir."
+        },
+        {
+          "at": 5.0,
+          "text": "Meşgule attın. Soracağı belli: faturalar, gider belgeleri."
+        },
+        {
+          "at": 9.9,
+          "text": "Sonra her panelden ayrı Excel indirirsin."
+        },
+        {
+          "at": 13.0,
+          "text": "Deştok'ta muhasebecini bir kez davet edersin."
+        },
+        {
+          "at": 16.4,
+          "text": "O faturaları ve gider belgelerini kendi ekranından görür."
+        },
+        {
+          "at": 21.0,
+          "text": "Muhasebecin aramıyorsa, işler yolunda."
+        },
+        {
+          "at": 24.5,
+          "text": "Web siten ve pazaryerlerin tek panelde. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}
