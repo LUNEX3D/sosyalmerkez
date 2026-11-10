@@ -1,0 +1,54 @@
+{
+  "scheduled_at": "2026-11-10T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-10.mp4"
+      ],
+      "content": "11.11 yarın. Peki 12 Kasım'da ne satacaksın? 🤔\n\nTermos mu, ısıtıcı yelek mi, telefon standı mı? Çoğu satıcı bunu hisle, rakibe bakarak ya da geçen yıla göre seçer. Sonra stok elinde kalır.\n\nDashtock'un Fırsat Radarı Google Trends, sosyal medya, Amazon ve Trendyol sinyallerini tarar, fırsatları 7 ölçüyle puanlar ve her ürünün neden önerildiğini açıkça yazar. Bulduğun ürünü tek panelden web sitene ve pazaryerlerine yüklersin.\n\nTahminle stok alınmaz. Veriyle alınır.\n\nSen hangisini seçtin? Yoruma A, B ya da C yaz 👇\ndashtock.com\n\n(Videodaki ürünler ve skorlar örnektir.)\n\n#dashtock #eticaret #firsatradari #urunarastirma #pazaryeri #eticaretsitesi #1111 #satici",
+      "texts": {
+        "youtube": "11.11 yarın. 12 Kasım'da ne satacaksın? #shorts\n\nHangisi yükselecek: termos, ısıtıcı yelek, telefon standı? Hisle seçilen ürün stokta kalır. Dashtock Fırsat Radarı Google Trends, sosyal medya, Amazon ve Trendyol sinyallerini tarar; fırsatları 7 ölçüyle puanlar ve neden önerildiğini yazar. Web siten ve pazaryerlerin tek panelde.\nTahminle stok alınmaz. Veriyle alınır.\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n(Videodaki ürünler ve skorlar örnektir.)\n#dashtock #eticaret #firsatradari #urunarastirma #pazaryeri",
+        "tiktok": "11.11 yarın. 12 Kasım'da ne satacaksın? 🤔 A, B ya da C, yoruma yaz 👇 #dashtock #eticaret #firsatradari #urunarastirma #satici #pazaryeri #1111",
+        "threads": "11.11 yarın. Peki 12 Kasım'da ne satacaksın? Çoğu satıcı ürünü hisle, rakibe bakarak ya da geçen yıla göre seçer. Dashtock'un Fırsat Radarı Google Trends, sosyal medya, Amazon ve Trendyol sinyallerini tarar, fırsatları 7 ölçüyle puanlar ve neden önerdiğini yazar. Web siten ve pazaryerlerin tek panelde. Tahminle stok alınmaz, veriyle alınır. dashtock.com"
+      },
+      "notes": "Konu: Fırsat Radarı (Google Trends, sosyal medya, Amazon, Trendyol sinyalleri; 7 boyutlu skor; 15 fırsat; neden önerildiği açıklamalı) + 11.11 yarın. Kanca: '11.11 yarın. Peki 12 Kasım'da ne satacaksın?' (A Termos / B Isıtıcı yelek / C Telefon standı). Arayüz çizim, ürünler ve skorlar ÖRNEK. Kapak 3200 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "On bir on bir yarın. Peki on iki Kasım'da ne satacaksın?"
+        },
+        {
+          "at": 4.7,
+          "text": "Seç. Hangisi yükselecek? Üç, iki, bir."
+        },
+        {
+          "at": 8.7,
+          "text": "Seçtin. Peki neye göre? His mi, rakip mi, geçen yıl mı?"
+        },
+        {
+          "at": 13.5,
+          "text": "Deştok'un Fırsat Radarı Google Trends'e, sosyal medyaya, Amazon'a ve Trendyol'a bakar."
+        },
+        {
+          "at": 18.8,
+          "text": "Fırsatları yedi ölçüyle puanlar, nedenini de açıkça yazar."
+        },
+        {
+          "at": 22.7,
+          "text": "Tahminle stok alınmaz. Veriyle alınır."
+        },
+        {
+          "at": 25.5,
+          "text": "Web siten ve pazaryerlerin tek panelde. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}
