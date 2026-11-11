@@ -1,0 +1,54 @@
+{
+  "scheduled_at": "2026-11-11T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-11.mp4"
+      ],
+      "content": "11.11. Son ürünü sattın, stoğu sıfırladın. Ama kanallardan biri hâlâ satıyor. Bulabildin mi? 👀\n\nStok güncellemesi \"gönderildi\" görünür ama pazaryeri onu sessizce almayabilir. Kimse haber vermez; gece sipariş gelir, ürün yoktur. Sonuç: iptal ve mağaza puanında düşüş.\n\nDashtock web siten ve pazaryerlerin için tek stok tutar. Otonom stok mutabakatı her saat kanallardaki gerçek stoğu panelle karşılaştırır ve sessiz kalan farkı sipariş gelmeden yakalar.\n\n\"Gönderildi\" demek \"güncellendi\" demek değil.\n\nSen kaç saniyede buldun? Yoruma yaz 👇\n14 gün ücretsiz dene, kredi kartı gerekmez: dashtock.com\n\n(Videodaki sayılar örnektir.)\n\n#dashtock #eticaret #1111 #stokyonetimi #pazaryeri #eticaretsitesi #satici #overselling",
+      "texts": {
+        "youtube": "11.11: Son ürünü sattın ama biri hâlâ satıyor. Bul! #shorts\n\nStoğu sıfırladın, güncelleme \"gönderildi\". Ama bir pazaryeri onu sessizce almadı; gece sipariş gelir, ürün yok, iptal. Dashtock web siten ve pazaryerlerin için tek stok tutar; otonom stok mutabakatı her saat kanallardaki gerçek stoğu kontrol eder ve farkı yakalar.\n\"Gönderildi\" demek \"güncellendi\" demek değil.\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n(Videodaki sayılar örnektir.)\n#dashtock #eticaret #1111 #stokyonetimi #pazaryeri",
+        "tiktok": "11.11. Son ürünü sattın ama biri hâlâ satıyor 👀 Kaç saniyede buldun? Yoruma yaz 👇 #dashtock #eticaret #1111 #stokyonetimi #satici #pazaryeri #overselling",
+        "threads": "11.11. Son ürünü sattın, stoğu sıfırladın. Güncelleme gönderildi ama bir pazaryeri onu sessizce almadı; gece sipariş gelir, ürün yok, iptal. Dashtock web siten ve pazaryerlerin için tek stok tutar, her saat kanallardaki gerçek stoğu kontrol eder ve farkı yakalar. Gönderildi demek güncellendi demek değil. dashtock.com"
+      },
+      "notes": "Konu: merkezi stok + otonom stok mutabakatı (pazaryeri stok güncellemesini sessizce reddettiyse saatlik kontrolde yakalar) + 11.11 günü. Kanca: '11.11. Son ürünü sattın. Biri hâlâ satıyor. Bul.' Arayüz çizim, sayılar ÖRNEK. Kapak 7500 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "On bir on bir. Son ürünü de sattın, stoğu sıfırladın."
+        },
+        {
+          "at": 4.3,
+          "text": "Ama kanallardan biri hâlâ satışta. Üç saniyen var, bul bakalım."
+        },
+        {
+          "at": 9.4,
+          "text": "Güncelleme gitti, ama pazaryeri onu sessizce almadı. Kimse de haber vermedi."
+        },
+        {
+          "at": 14.5,
+          "text": "Gece sipariş geliyor, ürün yok. İptal, üstüne mağaza puanın düşer."
+        },
+        {
+          "at": 19.3,
+          "text": "Deştok her saat kanallardaki gerçek stoğu kontrol eder, bu farkı sipariş gelmeden yakalar."
+        },
+        {
+          "at": 24.2,
+          "text": "Gönderildi demek, güncellendi demek değil."
+        },
+        {
+          "at": 26.9,
+          "text": "Tek stok, tek panel. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}
