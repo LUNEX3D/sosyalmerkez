@@ -1,0 +1,50 @@
+{
+  "scheduled_at": "2026-11-12T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-12.mp4"
+      ],
+      "content": "11.11 bitti. Masada 4 sipariş var. Hangisini önce paketlersin? 📦\n\nÇoğu satıcı en eskisinden başlar. Ama her kanalın, her ürünün kargoya veriliş süresi farklı. Bazen en yeni sipariş en acil olandır; sırayla gidersen termini kaçırırsın.\n\nDashtock web sitenin ve pazaryerlerinin siparişlerini tek listede, termine göre sıralar. 10 saatten az kalanı \"acil\" diye işaretler, sana e-posta atar ve siparişi seçtiğin kargoyla işleme alır.\n\nSırayla değil, terminle paketle.\n\nSen hangisini seçtin? A, B, C, D? Yoruma yaz 👇\n14 gün ücretsiz dene, kredi kartı gerekmez: dashtock.com\n\n(Videodaki sayılar örnektir.)\n\n#dashtock #eticaret #1111 #kargo #siparisyonetimi #pazaryeri #eticaretsitesi #satici",
+      "texts": {
+        "youtube": "11.11 bitti: 4 sipariş, hangisini önce paketlersin? #shorts\n\nÇoğu satıcı en eski siparişten başlar. Ama her kanalın, her ürünün kargo süresi farklı; en yeni sipariş en acil olabilir. Dashtock web sitenin ve pazaryerlerinin siparişlerini tek listede termine göre sıralar, 10 saatten az kalanı acil diye işaretler, e-postayla haber verir ve siparişi seçtiğin kargoyla işleme alır.\nSırayla değil, terminle paketle.\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n(Videodaki sayılar örnektir.)\n#dashtock #eticaret #1111 #kargo #pazaryeri",
+        "tiktok": "11.11 bitti. 4 sipariş. Hangisini önce paketlersin? 📦 A, B, C, D? Yoruma yaz 👇 #dashtock #eticaret #1111 #kargo #satici #pazaryeri #siparisyonetimi",
+        "threads": "11.11 bitti, masada 4 sipariş var. Hangisini önce paketlersin? Çoğu satıcı en eskisinden başlar ama her kanalın kargo süresi farklı; en yeni sipariş en acil olabilir. Dashtock web sitenin ve pazaryerlerinin siparişlerini termine göre sıralar, 10 saatten az kalanı acil diye işaretler. Sırayla değil, terminle paketle. dashtock.com"
+      },
+      "notes": "Konu: 11.11 sonrası sipariş yığını + termin (SLA) uyarısı (10 saatten az kalan acil, e-posta), otomatik sipariş işleme (Yeni -> seçilen kargoyla İşlemde) + etiket; web siten + pazaryerleri tek liste. Kanca: '11.11 bitti. Hangisini önce paketlersin?' Arayüz çizim, sayılar ÖRNEK. Kapak 3600 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "On bir on bir bitti. Masada dört sipariş var. Hangisini önce paketlersin?"
+        },
+        {
+          "at": 5.4,
+          "text": "Çoğu kişi en eskisini seçer. Üç saniyen var."
+        },
+        {
+          "at": 9.5,
+          "text": "En yenisi en acil olanmış. Çünkü her kanalın, her ürünün kargo süresi farklı."
+        },
+        {
+          "at": 15.5,
+          "text": "Deştok siparişleri termine göre dizer. Acil olanı işaretler, sana haber verir, kargoya hazırlar."
+        },
+        {
+          "at": 22.1,
+          "text": "Sırayla değil, terminle paketle."
+        },
+        {
+          "at": 24.6,
+          "text": "Web siten ve pazaryerlerin tek listede. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}
