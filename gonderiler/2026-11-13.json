@@ -1,0 +1,54 @@
+{
+  "scheduled_at": "2026-11-13T21:00:00+03:00",
+  "posts": [
+    {
+      "networks": [
+        "instagram",
+        "facebook",
+        "tiktok",
+        "youtube",
+        "threads"
+      ],
+      "media": [
+        "videolar/2026-11-13.mp4"
+      ],
+      "content": "Bugün Cuma, 13 Kasım. Ama satıcıyı korkutan bu değil: 11.11'in iadeleri kapıda. 📦\n\nİadeyi onayladın. Peki sonra ne unutulur? A) e-Arşiv faturasını iptal etmek B) Müşteriye haber vermek C) İkisi de\n\nYoğun haftada ikisi de kolayca unutulur: fatura açık kalır, müşteri cevap bekler.\n\nDashtock'ta Trendyol, Hepsiburada, N11 ve Ozon iadeleri tek listede. İadeyi onayladığın an e-Arşiv faturası otomatik iptal olur, müşteriye bildirim gider.\n\nİadeyi onaylamak, kapatmak değildir.\n\nSen hangisini seçtin? Yoruma yaz 👇\nKendi web siten + pazaryerlerin tek panelde. 14 gün ücretsiz dene, kredi kartı gerekmez: dashtock.com\n\n(Videodaki veriler örnektir.)\n\n#dashtock #eticaret #1111 #iade #efatura #pazaryeri #eticaretsitesi #satici",
+      "texts": {
+        "youtube": "Cuma 13: 11.11 iadeleri geldi, sonra ne unutulur? #shorts\n\nİadeyi onayladın; e-Arşiv faturasını iptal etmeyi mi, müşteriye haber vermeyi mi unuttun? Dashtock'ta Trendyol, Hepsiburada, N11 ve Ozon iadeleri tek listede; iadeyi onayladığın an e-Arşiv faturası otomatik iptal olur, müşteriye bildirim gider. Kendi web siten + pazaryerlerin tek panelde.\nİadeyi onaylamak, kapatmak değildir.\n14 gün ücretsiz dene, kredi kartı gerekmez: https://dashtock.com\n(Videodaki veriler örnektir.)\n#dashtock #eticaret #1111 #iade #efatura",
+        "tiktok": "Cuma 13. 11.11 iadeleri kapıda. İadeyi onayladın, sonra ne unutulur? A, B, C? Yoruma yaz 👇 #dashtock #eticaret #1111 #iade #efatura #satici #pazaryeri",
+        "threads": "Bugün Cuma 13 ama satıcıyı korkutan bu değil: 11.11 iadeleri geldi. İadeyi onayladın, sonra ne unutulur? Fatura iptali mi, müşteriye haber mi? Genelde ikisi de. Dashtock'ta iadeyi onayladığın an e-Arşiv faturası otomatik iptal olur, müşteriye bildirim gider. İadeyi onaylamak, kapatmak değildir. dashtock.com"
+      },
+      "notes": "Konu: iade/talep takibi (Trendyol, Hepsiburada, N11, Ozon tek liste) + iade onaylanınca e-Arşiv otomatik iptal ve müşteriye bildirim; Cuma 13 + 11.11 sonrası iade dalgası kancası. Kanca: 'Cuma 13. Satıcıyı korkutan bu değil.' Arayüz çizim, veriler ÖRNEK. Kapak 2000 ms. Seslendirme yapay zekâ (ElevenLabs).",
+      "voiceover": [
+        {
+          "at": 0.3,
+          "text": "Bugün on üç Kasım, Cuma. Asıl korkutan başka."
+        },
+        {
+          "at": 3.8,
+          "text": "On bir on birin iadeleri kapıda."
+        },
+        {
+          "at": 7.0,
+          "text": "İadeyi onayladın. Peki sonra ne unutulur? Üç saniyen var."
+        },
+        {
+          "at": 12.6,
+          "text": "İkisi de. Fatura hâlâ açık, müşteri hâlâ cevap bekliyor."
+        },
+        {
+          "at": 16.8,
+          "text": "Deştok'ta iadeyi onayladığın an, e arşiv faturası kendiliğinden iptal olur, müşteriye de haber gider."
+        },
+        {
+          "at": 23.0,
+          "text": "İadeyi onaylamak, kapatmak değildir."
+        },
+        {
+          "at": 25.2,
+          "text": "Web siten ve pazaryerlerin tek panelde. Deştok nokta kom."
+        }
+      ]
+    }
+  ]
+}
